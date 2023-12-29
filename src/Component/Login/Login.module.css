@@ -1,0 +1,45 @@
+.cardtitle{
+    color: #000;
+font-family: Roboto;
+font-size: 32.222px;
+font-style: normal;
+font-weight: 100;
+line-height: normal;
+}
+.formlabel{
+    color: #000;
+    font-family: Roboto;
+    font-size: 17.222px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    margin-bottom:  5px;
+}
+.bottomtext{
+    color: #000;
+    font-family: Roboto;
+    font-size: 14.222px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom:  15px;
+}
+.bottommosttext{
+    color: #000;
+    font-size: 13px;
+}
+.footer{
+    position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #2E0052;
+  color: white;
+  padding: 10px;
+  }
+  .horizontalLine {
+    flex: 1;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    border-top: 1px solid #2E0052;
+  }
